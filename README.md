@@ -58,3 +58,62 @@ I'm a Master's student in Computer Science at DePaul University with a strong pa
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
+
+---
+
+# 💻 Technical Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🖥️ Languages & Querying
+<p>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+### 📊 Data Analysis & Reporting
+<p>
+<img src="https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistical%20Analysis-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regression-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Classification-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clustering-E91E63?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+### 📈 Visualization
+<p>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dashboard%20Development-0288D1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-7B1FA2?style=for-the-badge"/>
+</p>
+
+### ☁️ Big Data & Cloud
+<p>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark%20MLlib-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-3949AB?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+</table>
