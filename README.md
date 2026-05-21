@@ -51,6 +51,20 @@ I'm a Master's student in Computer Science at DePaul University with a strong pa
 
 ---
 
+## 💊 PharmaClare — UX Research & Pharmacy Workflow Redesign
+**DePaul University**
+
+- Designed a user-centered digital solution to improve the pharmacy prescription pickup experience and reduce workflow inefficiencies  
+- Conducted observational research, contextual interviews, and usability testing to identify issues related to prescription readiness, privacy, and caregiver authorization  
+- Created wireframes and interaction designs for stage-based prescription tracking, QR-based authentication, and proxy authorization workflows  
+- Improved transparency by introducing pre-arrival copay visibility and real-time prescription status updates  
+- Applied UX and interaction design principles including accessibility, visibility of system status, privacy-focused design, and error recovery  
+- Analyzed usability testing feedback and iterated on the prototype to enhance clarity, navigation, and user experience  
+
+**Tech Stack:** Figma, UX Research, Wireframing, Interaction Design, Usability Testing, User-Centered Design, Prototyping
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
